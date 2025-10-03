@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**santiago-cifuentes-acosta/santiago-cifuentes-acosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a data analyst with experience working with Python, Excel, SQL and Power BI.
 
 I'm currently completing a data analyst internship with Amdari.io, in which I and other interns are engaging in six projects using different tools. Some of these projects are individual, and some are in groups, but all require sharp attention to detail and agility with the tools at hand. 
@@ -10,10 +6,11 @@ I'm currently completing a data analyst internship with Amdari.io, in which I an
 While I do that, I am gaining familiarity with AI tools like Orange to aid me in the process.
 
 I studied Social and Cultural Anthropology and I have a Master's in Digital Society. 
-Here are some ideas to get you started:
+
+You can reach me through my [LinkedIn](www.linkedin.com/in/santiago-cifuentes-acosta-26210919a)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xsol05&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/santiago-cifuentes-acosta/github-readme-stats)
-- 🔭 I’m currently working on ...
+<!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
